@@ -1,3 +1,5 @@
+https://www.reddit.com/r/reactjs/comments/z5zu12/i_made_a_reddit_clone_with_typescript_react_and/
+
 <h1 align="center">⚛️ React Reddit Clone</h1>
 
 ![](/src/resources/images/banner.png)
